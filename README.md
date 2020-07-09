@@ -9,3 +9,6 @@ Our current schools include:
 - Coyote Creek ES
 - Quail Run ES
 - Possibly Bella Vista or Live Oak as well in the future.
+
+Visit our website @ tech-sanramon.herokuapp.com
+-> Domain to change in the future
